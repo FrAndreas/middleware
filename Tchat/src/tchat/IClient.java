@@ -8,5 +8,4 @@ public interface IClient extends Remote {
 
 	public String getName() throws RemoteException;
 
-	public void setGUI(ChatUI chatUI);
 }

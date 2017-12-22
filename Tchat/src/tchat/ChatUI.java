@@ -145,7 +145,7 @@ public class ChatUI implements Remote {
 		top.add(connect);
 		top.add(disconnect);
 
-		left.add(new JLabel(" serveur dispo :"));
+		// left.add(new JLabel(" serveur dispo :"));
 		// left.add(adServer);
 
 		cn.add(new JScrollPane(tx), BorderLayout.CENTER);
